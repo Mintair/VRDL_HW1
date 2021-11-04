@@ -8,7 +8,7 @@
 ## Getting started
 
 #### 1. Download the pre-trained model from given google drive link
-#### 2. Put testing images, testing_img_order.txt, the model you just downloaded and inference.py in same folder
+#### 2. Put testing images, testing_img_order.txt, pre-trained model and inference.py in same folder
 #### 3. Run the inference.py
 
 ### Pre-trained model downloadable link:
