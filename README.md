@@ -1,11 +1,11 @@
-# VRDL_HW1
+# How to reproduce the submission result
 ## Requirements
 
 #### torch
 #### torchvision
 #### PIL
 
-## How to reproduce the submission result
+## Getting started
 
 #### 1. Download the pre-trained model from given google drive link
 #### 2. Put the testing images, testing_img_order.txt, the model you just downloaded and inference.py within same folder
