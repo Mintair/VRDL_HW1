@@ -1,5 +1,4 @@
 # VRDL_HW1
-HW1
 
 ## How to reproduce the submission result
 #### 1.Download the pre-trained model from given google drive link
